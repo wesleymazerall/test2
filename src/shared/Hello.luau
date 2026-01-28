@@ -6,4 +6,5 @@ return function()
 	else
 		print("no")
 	end
+	print("stopping")
 end
